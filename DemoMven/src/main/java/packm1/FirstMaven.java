@@ -16,7 +16,7 @@ public class FirstMaven {
 		System.out.println("My name is Linta");
 		System.out.println("I am 25 years old");
 		System.out.println("Area of Triangle with base "+base+"cm and height "+height+"cm is "+ Area+"cm²");
+		//Helloo My name is Lintaa
 	}
-
 }
 
