@@ -1,0 +1,19 @@
+package Excelread;
+
+import java.io.IOException;
+
+public class ExcelMain {
+
+
+		public static void main(String[] args) throws IOException {
+			
+			String s= ExcelCode.readStringData(1, 0);
+	       System.out.println(s);
+	       
+	       double h= ExcelCode.readIntegerData(0,1);
+	       System.out.println(h);
+			
+		}
+
+	}
+
